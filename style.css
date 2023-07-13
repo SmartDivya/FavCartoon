@@ -1,0 +1,37 @@
+.h3{
+    align-content: center;
+}
+.container{
+    font: size 30px;
+text-align: center;
+    
+    flex-direction: row;
+    border: 50m;
+}
+.title{
+    background-color: yellow;
+    padding: 30px;
+    align-content: center;
+}
+.test{
+    
+    background-color:aqua;
+    padding: 50px;
+    font-size: 3em;
+    
+}
+.hello{
+    background-color: darkorchid;
+    padding: 30px;
+    font-size: 3em;
+}
+.hi{
+    background-color: darkred;
+    padding: 30px;
+    font-size: 3em;
+}
+.line{
+    background-color: darkgreen;
+    padding:30px ;
+    font-size: 3em;
+}
